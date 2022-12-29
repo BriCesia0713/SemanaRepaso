@@ -5,4 +5,4 @@ Formulario con HTML, CSS y JS.
 ### CSS: 
 * Es un lenguaje para modificar el estilo.
 ### Javascript:
-* Nos permite dar funcionalidad a nuestra página web.
+* Nos permitira dar funcionalidad a nuestra página web.
